@@ -6,5 +6,27 @@
         "pass": "123456"
       }
       
+    ],
+    "joblist":[
+      {
+        "id":1,
+        "postname":"Associate Software Engineer",
+        "salary":"4LPA"
+      },
+      {
+        "id":2,
+        "postname":"Graphic Designer",
+        "salary":"2.5LPA"
+      },
+      {
+        "id":3,
+        "postname":"Bussiness Analyst",
+        "salary":"4LPA"
+      },
+      {
+        "id":3,
+        "postname":"Peon",
+        "salary":"6LPA"
+      }
     ]
   }
